@@ -12,11 +12,20 @@ Below you'll see image 1 and image 2, which show just a snippet of differentces 
 
 ## Summary
 
-### Pros and Cons of refactoring code.
 
- * Finding code that does what you want it to is easy, perhaps you've written some you are duplicating. Unnecessary code bogs down performance, however.
- * Refactoring a code may initially take some time, but it prepares the code to be more useful now and in the future.
- * A disadvantage of refactoring is the possiility of taking a code that works and making it unusable, in which case you need to start over.
+### Pros of refactoring code
+
+Refactoring code is the process of modifying existing code to make it do what you need. Refactoring allows for:
+  * More timely processing of information.
+  * Your code will be cleaner and easier for others to understand and replicate.
+  * Refactoring helps to debug your code.
+
+
+### Cons of refactoring code
+Refactoring code seems like the natural thing to do because of its pros, but it comes with its own set of challenges and disadvantages.
+  * Refactoring code involves an additional time investment and cost, not ideal if you are up against a deadline or on a strict budget.
+  * Refactoring code isn't foolproof and can cause a working code to become useless.
+
 
 **How do these pros and cons apply to refactoring the original VBA script?**
 
