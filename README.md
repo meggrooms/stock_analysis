@@ -16,9 +16,9 @@ Below you'll see image 1 and image 2, which show just a snippet of differentces 
 
  * Finding code that does what you want it to is easy, perhaps you've written some you are duplicating. Unnecessary code bogs down performance, however.
  * Refactoring a code may initially take some time, but it prepares the code to be more useful now and in the future.
- * A disadvantage of refactoring is the possiility of taking a code that works and making it unusable
+ * A disadvantage of refactoring is the possiility of taking a code that works and making it unusable, in which case you need to start over.
 
-How do these pros and cons apply to refactoring the original VBA script?
+**How do these pros and cons apply to refactoring the original VBA script?**
 
 For Steve's analysis, refactoring code had the double positive of reducing energy needed to run the macro (green!) and making the code easier to reuse in the future. I found that refactoring isn't as easy as it sounds, I drew a map to help visualize what I needed to do. I found this to be time consuming but in the end the script runs far more efficiently.
 
