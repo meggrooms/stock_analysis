@@ -39,7 +39,7 @@ For Steve's analysis, refactoring code had the double positive of reducing energ
 
 _image 1_<P>
 
-![image](https://user-images.githubusercontent.com/102067932/186589793-637a3bcc-7ff2-4b91-ae89-32064de09568.png)<P>
+![https://github.com/meggrooms/stock_analysis/blob/main/Resources/factored%20small.png]<P>
 
 <br> 
 
